@@ -1,0 +1,16 @@
+texto,idrequisito
+Requiere revisión de seguridad,1
+Agregar validación de email,2
+Optimizar backend,3
+UI confusa,4
+Validaciones no funcionan,5
+No compatible con Safari,6
+Contraseñas en texto plano,7
+No hay registros en auditoría,8
+Traducción incompleta,9
+Demora al cargar settings,10
+API externa no responde,11
+Backup fallido,12
+No se guarda mensaje,13
+Error al generar PDF,14
+Email no llega,15
