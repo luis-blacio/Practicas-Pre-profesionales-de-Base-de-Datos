@@ -18,5 +18,9 @@ por eso se realiza este informe, para dejar constancia de todo ese aprendizaje, 
 ## Diagrama Entidad Relacion
 <img width="800" height="675" alt="Captura de Pantalla 2025-07-29 a la(s) 10 13 55" src="https://github.com/user-attachments/assets/c67aff69-1e8b-43f1-bfb5-d468cf70b1e2" />
 
+## Diagrama Relacional
+<img width="1312" height="588" alt="Captura de Pantalla 2025-07-29 a la(s) 10 57 37" src="https://github.com/user-attachments/assets/bd171490-04fb-47f2-88f6-f2fafc430520" />
+
+
 
 
