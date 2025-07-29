@@ -1,0 +1,3 @@
+"id","tipo","fecha","estado","idCaso_Prueba"
+"1","email","2025-07-01","enviado","1"
+"2","sms","2025-07-01","pendiente","2"
