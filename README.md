@@ -26,7 +26,7 @@ Carlos Josue Granda Cango
 carlos.j.granda.c@unl.edu.ec
 
 # Docente de la materia:
-Ing. Edison Coronel.
+Ing. Edwin Rene Guaman
 # Descripción 
 Las practicas que hemos realizado han sido muy importantes para poder practicar la logica de datos, la interpretación de los mismos,
 por eso se realiza este informe, para dejar constancia de todo ese aprendizaje, en este informe se encontrara:
