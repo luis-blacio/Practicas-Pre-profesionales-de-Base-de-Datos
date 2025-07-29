@@ -1,7 +1,30 @@
 # *Practicas Pre-Profesionales de Base de datos*
 # Estudiante
 Luis Alejandro Blacio Torres
+
+
 luis.blacio@unl.edu.ec
+
+
+Cristhian Danghelo Valverde Villamagua
+
+
+cristhian.valverde@unl.edu.ec
+
+
+Douglas Andrey Carreño Pardo
+
+
+douglas.carreno@unl.edu.ec
+
+
+
+
+Carlos Josue Granda Cango
+
+
+carlos.j.granda.c@unl.edu.ec
+
 # Docente de la materia:
 Ing. Edison Coronel.
 # Descripción 
