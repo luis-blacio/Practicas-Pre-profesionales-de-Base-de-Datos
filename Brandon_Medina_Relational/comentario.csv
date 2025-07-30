@@ -1,0 +1,4 @@
+id,texto,fecha,idRequisito
+1,Se debe validar clave incorrecta,2025-07-01,1
+2,Falta ordenar la lista de usuarios,2025-07-01,2
+3,El formato del reporte debe ser PDF,2025-07-01,3

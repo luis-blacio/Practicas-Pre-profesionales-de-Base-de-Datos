@@ -1,0 +1,4 @@
+id,prioridad,titulo,estado,idRequisito,idTipo
+1,alta,Probar inicio de sesion,pendiente,1,1
+2,media,Verificar listado de usuarios,completado,2,2
+3,baja,Validar descarga de reportes,en progreso,3,3

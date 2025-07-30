@@ -1,0 +1,4 @@
+id,fecha,observaciones,resultado,idCaso_Prueba
+1,2025-07-01,Inicio de sesion probado,exitoso,1
+2,2025-07-01,Lista de usuarios visible,fallido,2
+3,2025-07-01,Reporte descargado sin errores,exitoso,3

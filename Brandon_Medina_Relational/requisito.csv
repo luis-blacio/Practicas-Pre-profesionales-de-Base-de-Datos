@@ -1,0 +1,4 @@
+id,descripcion,tipo,prioridad,idProyecto
+1,Validar acceso con clave,funcional,alta,1
+2,Mostrar lista de usuarios,funcional,media,2
+3,Descarga de reportes,no funcional,baja,3
