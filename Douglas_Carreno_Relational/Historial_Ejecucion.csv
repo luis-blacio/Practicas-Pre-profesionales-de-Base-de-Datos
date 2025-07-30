@@ -1,0 +1,6 @@
+id,fecha,observaciones,resultado,caso_prueba_id
+1,2023-06-15,Sin errores,Exitoso,1
+2,2023-06-16,Requiere ajuste,Fallido,2
+3,2023-06-17,Correcto,Exitoso,3
+4,2023-06-18,Error crítico,Fallido,4
+5,2023-06-19,Parcial,Parcial,5
