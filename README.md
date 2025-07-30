@@ -25,6 +25,11 @@ Carlos Josue Granda Cango
 
 carlos.j.granda.c@unl.edu.ec
 
+Brandon Alexis Medina Jiménez
+
+
+brandon.medina@unl.edu.ec
+
 # Docente de la materia:
 Ing. Edwin Rene Guaman
 # Descripción 
